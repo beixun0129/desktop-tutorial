@@ -1,0 +1,18 @@
+id: beixuan812_320
+name: 导盲识别系统
+name[zh]: 检测器 257742
+version: 1.0.0
+author: MaixHub@Beixuan
+icon: app.png
+desc: beixuan open
+exclude:
+  - __pycache__
+  - build
+  - dist
+  - .gitignore
+files:
+  - app.yaml
+  - main.py
+  - model_257742.cvimodel
+  - model_257742.mud
+  - report.json
